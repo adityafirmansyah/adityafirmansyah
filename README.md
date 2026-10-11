@@ -13,7 +13,6 @@
 - **Current focus:** 
   - Founder & Lead Architect at [Dagango.com](https://dagango.com) — multi-tenant e-commerce platform (Next.js App Router + FastAPI + PostgreSQL).
   - Creator of [Kas Transparan](https://github.com/adityafirmansyah/kas-transparan) ([kas.gba.web.id](https://kas.gba.web.id)) — open-source civic treasury and dues management for RT/RW neighborhoods.
-  - CTO at GOSG Consulting — commercial e-commerce (Medusa), client SEO strategy, proprietary SEO tooling, and AI agent pipelines.
 - **Writing:** Author of [Field Notes](https://aditf.com/blog) — practitioner war stories on systems architecture, self-hosting on mini PCs, database traps, and zero-bullshit engineering.
 
 ---
